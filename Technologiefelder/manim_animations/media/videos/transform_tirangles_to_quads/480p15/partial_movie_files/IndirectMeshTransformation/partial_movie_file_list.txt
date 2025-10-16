@@ -1,7 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/mnt/scratch/trentschler/repos/lecture/Technologiefelder/manim_animations/media/videos/transform_tirangles_to_quads/480p15/partial_movie_files/IndirectMeshTransformation/2983391946_2704116648_223132457.mp4'
-file 'file:/mnt/scratch/trentschler/repos/lecture/Technologiefelder/manim_animations/media/videos/transform_tirangles_to_quads/480p15/partial_movie_files/IndirectMeshTransformation/2561453628_135301330_619898770.mp4'
-file 'file:/mnt/scratch/trentschler/repos/lecture/Technologiefelder/manim_animations/media/videos/transform_tirangles_to_quads/480p15/partial_movie_files/IndirectMeshTransformation/2561453628_1165985053_237808045.mp4'
-file 'file:/mnt/scratch/trentschler/repos/lecture/Technologiefelder/manim_animations/media/videos/transform_tirangles_to_quads/480p15/partial_movie_files/IndirectMeshTransformation/2561453628_1640643600_3756611474.mp4'
-file 'file:/mnt/scratch/trentschler/repos/lecture/Technologiefelder/manim_animations/media/videos/transform_tirangles_to_quads/480p15/partial_movie_files/IndirectMeshTransformation/2561453628_549622677_773511160.mp4'
-file 'file:/mnt/scratch/trentschler/repos/lecture/Technologiefelder/manim_animations/media/videos/transform_tirangles_to_quads/480p15/partial_movie_files/IndirectMeshTransformation/2561453628_1165985053_3983192888.mp4'
